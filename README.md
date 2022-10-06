@@ -1,5 +1,5 @@
 Hi, I’m Brian 👋 
-I am currently a student at <img src="https://user-images.githubusercontent.com/92756599/194363668-e035a8ce-e9f1-4902-8d11-74987025eb0a.png" style="max-width: 100px; height: auto; "> in the Backend Development course.
+I am currently a student at <img src="https://user-images.githubusercontent.com/92756599/194363668-e035a8ce-e9f1-4902-8d11-74987025eb0a.png" style="max-width: 20px; height: auto; "> in the Backend Development course.
 
 
 - 👀 I’m interested in the great outdoors; mountain biking, hiking, camping, snowboarding, and climbing.
