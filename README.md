@@ -1,8 +1,5 @@
-Hi, I’m Brian Knight 👋 
-
-![image](https://user-images.githubusercontent.com/92756599/194357667-54abd859-0450-4d21-a9dd-0059c1346647.png)
-
-
+Hi, I’m Brian 👋 
+I am currently a student at <img src="https://user-images.githubusercontent.com/92756599/194357667-54abd859-0450-4d21-a9dd-0059c1346647.png" > in the Backend Development course.
 
 - 👀 I’m interested in the great outdoors; mountain biking, hiking, camping, snowboarding, and climbing.
 - 🌱 I’m currently learning backend development with Java, AWS, and IntelliJ.
