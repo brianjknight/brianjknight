@@ -4,9 +4,9 @@ I am currently a student at <img src="https://user-images.githubusercontent.com/
 
 - 👀 I’m interested in the great outdoors; mountain biking, hiking, camping, snowboarding, and climbing.
 - 🌱 I’m currently learning backend development with Java, AWS, and IntelliJ.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 📫 How to reach me 
+  - bknight84@gmail.com
+  - LinkedIn: 
 
 ### Languages & Tools
 
