@@ -8,7 +8,7 @@ I am currently a student at <img src="https://user-images.githubusercontent.com/
 - 🌱 I’m learning backend development with Java, AWS, and IntelliJ and a bit of frontend with HTML, CSS, and JS.
 - 📫 How to reach me 
   - bknight84@gmail.com
-  - LinkedIn: www.linkedin.com/in/brian-knight-0ab9938
+  - LinkedIn: www.linkedin.com/in/brianjknight1
 
 ---
 
