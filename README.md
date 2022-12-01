@@ -13,11 +13,11 @@ I am a former finance professional turned backend developer with <img src="https
 ---
 
 ### Languages & Tools
-##Backend
+## Backend
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white">  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-F71F15.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">  <img src="https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">  <img src="https://img.shields.io/badge/AWS%20CloudFormation-EF216C.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">  <img src="https://img.shields.io/badge/AWS%20Lambda-F68B1A.svg?style=for-the-badge&logo=awslambda&logoColor=white">  <img src="https://img.shields.io/badge/AWS%20API%20Gateway-821BE7.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">  <img src="https://img.shields.io/badge/Dagger-A15944.svg?style=for-the-badge&logo=Dagger&logocolor=white">  <img src="https://img.shields.io/badge/Mockito-DCE53C.svg?style=for-the-badge&logo=Mockito&logocolor=white">  <img src="https://img.shields.io/badge/PlantUML-BD1327.svg?style=for-the-badge&logo=PlantUML&logocolor=white">  
-##Frontend (beginner)
+## Frontend (beginner)
 
-##Additional
+## Additional
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">  <img src="https://img.shields.io/badge/Trello-177DC3.svg?style=for-the-badge&logo=Trello&logocolor=white">  
 
 <!---
