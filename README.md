@@ -4,16 +4,18 @@
 
 ---
 
-<div>
-I am a former finance professional turned backend developer with <img src="https://user-images.githubusercontent.com/92756599/194363668-e035a8ce-e9f1-4902-8d11-74987025eb0a.png" width="120">.
+### About Me
+ 
+I am a former financial professional (Series 7 and Certified Treasury Professional licenses) with broad-based experience in treasury, cash management, and broker-dealer operations. After ~15 years in the financial industry, I made the change to become a software engineer.   
+
+My journey began by taking online courses via websites like Coursera, Udemy, and Codecademy to gain an understanding of different languages and tools. Over the course of a year, I completed courses in Java, HTML, CSS, JavaScript, C++, and Python to name a few. My excitement of a possible career change to software engineering continued to grow. After seeing my interests aligned with backend development, I took the leap and enrolled in a rigorous Backend Development course with <img src="https://user-images.githubusercontent.com/92756599/194363668-e035a8ce-e9f1-4902-8d11-74987025eb0a.png" width="90">.
 
 - 🌱 I’m learning backend development with Java, AWS, and IntelliJ and a bit of frontend with HTML, CSS, and JS.
 - 👀 I’m interested in the great outdoors; mountain biking 🚵‍♂️, hiking 🥾, camping ⛺, snowboarding 🏂, and climbing 🧗‍♂️.
 - 📫 How to reach me 
   - bknight84@gmail.com
   - LinkedIn: www.linkedin.com/in/brianjknight1
-</div>
-
+  
 ---
 
 ### Languages & Tools
