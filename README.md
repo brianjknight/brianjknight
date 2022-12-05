@@ -1,4 +1,4 @@
-![Brian knight business card](https://user-images.githubusercontent.com/92756599/205698906-045bb2c4-81cf-4ca9-9ba0-a9fc019de61b.jpg)
+![business card](https://user-images.githubusercontent.com/92756599/205699837-266a97d4-570e-4d59-a77f-9dda428f4795.gif)
 
 ---
 
