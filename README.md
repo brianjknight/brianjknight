@@ -3,6 +3,7 @@
 </div>
 
 ---
+
 <div>
 I am a former finance professional turned backend developer with <img src="https://user-images.githubusercontent.com/92756599/194363668-e035a8ce-e9f1-4902-8d11-74987025eb0a.png" width="120">.
 
@@ -12,6 +13,7 @@ I am a former finance professional turned backend developer with <img src="https
   - bknight84@gmail.com
   - LinkedIn: www.linkedin.com/in/brianjknight1
 </div>
+
 ---
 
 ### Languages & Tools
