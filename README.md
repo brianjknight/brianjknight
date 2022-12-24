@@ -10,7 +10,7 @@ I am a Software Engineer with a background in the financial industry. My financi
 
 My journey to become a Software Engineer began by taking online courses via websites like Coursera, Udemy, and Codecademy to gain an understanding of different languages and tools. Over the course of a year, I completed courses in Java, HTML, CSS, JavaScript, C++, and Python to name a few. My excitement of a possible career change to software engineering continued to grow. After seeing my interests aligned with backend development, I took the leap and enrolled in a rigorous Backend Development course with <img src="https://user-images.githubusercontent.com/92756599/194363668-e035a8ce-e9f1-4902-8d11-74987025eb0a.png" width="90">.
 
-- 🌱 I’m learning backend development with Java, AWS, and IntelliJ and a bit of frontend with HTML, CSS, and JS.
+- 🌱 I learned backend development with Java, IntelliJ, and AWS and a bit of frontend with HTML, CSS, and JS.
 - 👀 I’m interested in the great outdoors; mountain biking 🚵‍♂️, hiking 🥾, camping ⛺, snowboarding 🏂, and climbing 🧗‍♂️.
 - 📫 How to reach me 
   - bknight84@gmail.com
