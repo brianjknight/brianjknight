@@ -14,7 +14,7 @@ My journey to become a Software Engineer began by taking online courses via webs
 - 👀 I’m interested in the great outdoors; mountain biking 🚵‍♂️, hiking 🥾, camping ⛺, snowboarding 🏂, and climbing 🧗‍♂️.
 - 📫 How to reach me 
   - bknight84@gmail.com
-  - LinkedIn: [<img src="https://user-images.githubusercontent.com/92756599/222807346-149130d8-8b68-41d7-a0cf-6fd47bee5f52.png" width=20% height=20%](www.linkedin.com/in/brianjknight1)
+  - LinkedIn: [<img src="https://user-images.githubusercontent.com/92756599/222807346-149130d8-8b68-41d7-a0cf-6fd47bee5f52.png" width=20% height=20%>](www.linkedin.com/in/brianjknight1)
   - www.linkedin.com/in/brianjknight1
   
 ---
