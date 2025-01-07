@@ -13,7 +13,6 @@ My journey to become a Software Engineer began by taking online courses via webs
 - 🌱 I am backend developer with experience in Java, IntelliJ, AWS and Spring Framework. I also know a bit of frontend with HTML, CSS, and JavaScript.
 - 👀 I’m interested in the great outdoors; mountain biking 🚵‍♂️, hiking 🥾, camping ⛺, snowboarding 🏂, and climbing 🧗‍♂️.
 - 📫 How to reach me 
-  - bknight84@gmail.com
   - www.linkedin.com/in/brianjknight1
   
 ---
