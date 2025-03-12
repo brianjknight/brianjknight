@@ -11,7 +11,7 @@ Versatile Software Engineer with a proven track record of rapid skill acquisitio
 
 In April 2021, I began exploration of a career change with self-directed computer science studies, completing 20+ courses within a year (see my Licenses & Certifications section below). Driven by a newly found passion for software engineering, I completed a rigorous 9-month full-time Backend Development program at [<img src="https://user-images.githubusercontent.com/92756599/194363668-e035a8ce-e9f1-4902-8d11-74987025eb0a.png" width="90">](https://www.bloomtech.com/courses/backend-development) (May 2022 - Feb 2023). This intensive bootcamp accelerated my career transition, equipping me with a strong foundation in Java, Spring Boot, RESTful APIs, and AWS services (DynamoDB, Lambda, API Gateway). Through hands-on projects, I gained practical experience in database management, API development, and cloud deployment. I honed my skills in Agile methodologies, version control with Git, and collaborative development practices, preparing me for a successful career in software engineering.
 
-- 👀 I’m interested in the great outdoors; mountain biking 🚵‍♂️, hiking 🥾, camping ⛺, snowboarding 🏂, and climbing 🧗‍♂️.
+I’m interested 👀 in the great outdoors; mountain biking 🚵‍♂️, hiking 🥾, camping ⛺, snowboarding 🏂, and climbing 🧗‍♂️.
   
 ---
 
