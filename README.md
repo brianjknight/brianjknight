@@ -22,40 +22,6 @@ I’m interested 👀 in the great outdoors; mountain biking 🚵‍♂️, hiki
 ### Exposure
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logocolor=white">  <img src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=mui&logocolor=white">  <img src="https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logocolor=white">  <img src="https://img.shields.io/badge/Neo4J-4581C3.svg?style=for-the-badge&logo=neo4j&logocolor=white">  <img src="https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">  <img src="https://img.shields.io/badge/AWS%20Lambda-F68B1A.svg?style=for-the-badge&logo=awslambda&logoColor=white">  <img src="https://img.shields.io/badge/AWS%20API%20Gateway-821BE7.svg?style=for-the-badge&logo=amazonapigateway&logoColor=white">  <img src="https://img.shields.io/badge/Kong-003459.svg?style=for-the-badge&logo=kong&logocolor=white">  <img src="https://img.shields.io/badge/OpenShift-EE0000.svg?style=for-the-badge&logo=redhatopenshift&logocolor=white">  <img src="https://img.shields.io/badge/Docker-2775E0.svg?style=for-the-badge&logo=Docker&logoColor=white">
 
-
-### Backend
-
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-F71F15.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">  
-<img src="https://img.shields.io/badge/Spring%20Boot-%236AB74A.svg?style=for-the-badge&logo=Spring&logoColor=white">  
-<img src="https://img.shields.io/badge/RESTful%20APIs-F563FE.svg?style=for-the-badge&logo=REST&logoColor=white">  
-<img src="https://img.shields.io/badge/PostgreSQL-4D73B6?style=for-the-badge&logo=postgresql&logoColor=white">  
-<img src="https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">  
-<img src="https://img.shields.io/badge/AWS%20Lambda-F68B1A.svg?style=for-the-badge&logo=awslambda&logoColor=white">  
-<img src="https://img.shields.io/badge/AWS%20API%20Gateway-821BE7.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">  
-<img src="https://img.shields.io/badge/AWS%20CloudFormation-EF216C.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">  
-<img src="https://img.shields.io/badge/Gradle-06520A.svg?style=for-the-badge&logo=gradle&logoColor=white">  
-<img src="https://img.shields.io/badge/JPA-BFAF67.svg?style=for-the-badge&logo=JakartaPersistence&logoColor=white">  
-<img src="https://img.shields.io/badge/JSON-B0B0AD.svg?style=for-the-badge&logo=JSON&logoColor=white">  
-<img src="https://img.shields.io/badge/Docker-2775E0.svg?style=for-the-badge&logo=Docker&logoColor=white"> 
-<img src="https://img.shields.io/badge/Dagger-A15944.svg?style=for-the-badge&logo=Dagger&logocolor=white">  
-<img src="https://img.shields.io/badge/JUnit-ECC510.svg?style=for-the-badge&logo=junit&logocolor=white">  
-<img src="https://img.shields.io/badge/Mockito-DCE53C.svg?style=for-the-badge&logo=Mockito&logocolor=white">  
-<img src="https://img.shields.io/badge/PlantUML-BD1327.svg?style=for-the-badge&logo=PlantUML&logocolor=white"> 
-### Frontend
-<img src="https://img.shields.io/badge/HTML-A1581B.svg?style=for-the-badge&logo=HTML&logocolor=white">  
-<img src="https://img.shields.io/badge/CSS-E66CF2.svg?style=for-the-badge&logo=CSS&logocolor=white">  
-<img src="https://img.shields.io/badge/JavaScript-F79015.svg?style=for-the-badge&logo=JavaScript&logocolor=white">  
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">  
-### Additional
-<img src="https://img.shields.io/badge/github-%234F4D4C.svg?style=for-the-badge&logo=github&logoColor=white"> 
- <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">  
- <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">  
- <img src="https://img.shields.io/badge/Jira-0078d7.svg?style=for-the-badge&logo=Jira&logoColor=white">  
- <img src="https://img.shields.io/badge/Windows-0078d7?style=for-the-badge&logo=windows&logoColor=white">  
- <img src="https://img.shields.io/badge/Trello-0078d7.svg?style=for-the-badge&logo=Trello&logocolor=white">  
- <img src="https://img.shields.io/badge/Dynamics%20365-0078d7.svg?style=for-the-badge&logo=microsoft&logoColor=white">  
- <img src="https://img.shields.io/badge/SalesForce-0078d7.svg?style=for-the-badge&logo=salesforce&logoColor=white">   
-
 <!---
 brianjknight/brianjknight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
